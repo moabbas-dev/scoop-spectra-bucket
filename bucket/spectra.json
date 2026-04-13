@@ -5,5 +5,5 @@
   "license": "MIT",
   "url": "https://github.com/moabbas-dev/Spectra/releases/download/Spectra/Spectra.zip",
   "hash": "6bd29b6740633a14c1726557ee8e5ed0f1eabc3cdb5ea5f6ec9c638709c8be58",
-  "bin": "Spectra 0.1.0.exe"
+  "bin": "Spectra.exe"
 }
