@@ -3,7 +3,7 @@
   "description": "Spectra is a desktop OpenAPI/Swagger editor built with Electron and React that enables teams to create, edit, validate, preview, and version API specifications through a VS Code-like workflow.",
   "homepage": "https://github.com/moabbas-dev/Spectra",
   "license": "MIT",
-  "url": "https://github.com/moabbas-dev/Spectra/releases/download/Spectra/Spectra.zip",
+  "url": "https://github.com/moabbas-dev/Spectra/releases/download/v1.0.0/Spectra.zip",
   "hash": "17b141abf817c28e955aada42060f1969126af05f317769a83bdcb3aac570660",
   "bin": "Spectra.exe"
 }
